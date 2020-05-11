@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="instructions">
+        Le but est de jeter toutes ses cartes. Pour cela, il faut parier si votre
+        carte est plus (+) grande, équivalente (=) ou moins grande (-) que celle sur le tas. Si
+        vous avez raison vous pouvez poser votre carte sur le tas et rejouer sinon vous prenez
+        toutes les cartes posées depuis le début.
+        \n\nInstruction :  La barre Jaune représente le nombre de cartes restantes.
+        Le rectangle à gauche représente votre carte retournée et la forme à droite représente la
+        carte sur le haut du tas. La barre rouge permet de sauvegarder votre avancement (pour ne pas
+        reprendre du début).
+
+        \n\nBonne chance !
+    </string>
+
+    <string name="titre">
+        Petit Grand
+    </string>
+    <string name="winner">Tu as Gagné ! Tu peux recommencer en relançant l\'appli ;)</string>
+    <string name="yes">Réussi ! Nouveau pari.</string>
+    <string name="no">Loupé ! Réessaie.</string>
+    <string name="gamble">Pari !</string>
+    <string name="save">Sauvegarde du tas ! Pari sereinement</string>
+
+
+</resources>

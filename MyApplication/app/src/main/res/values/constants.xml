@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ANT_X">-7.0f</string>
+    <string name="ANT_Y">8.0f</string>
+
+    <string name="SNAIL_X">-6.0f</string>
+    <string name="SNAIL_Y">8.0f</string>
+
+    <string name="FROG_X">-4.0f</string>
+    <string name="FROG_Y">8.0f</string>
+
+    <string name="HEDGEHOG_X">-1.0f</string>
+    <string name="HEDGEHOG_Y">8.0f</string>
+
+    <string name="FOX_X">2.0f</string>
+    <string name="FOX_Y">8.0f</string>
+
+    <string name="DOE_X">5.0f</string>
+    <string name="DOE_Y">8.0f</string>
+
+    <string name="BEAR_X">8.0f</string>
+    <string name="BEAR_Y">8.0f</string>
+
+
+    <string name="PLUS_X">-7.0f</string>
+    <string name="PLUS_Y">-8.0f</string>
+
+    <string name="MINUS_X">7.0f</string>
+    <string name="MINUS_Y">-8.0f</string>
+
+    <string name="EQUAL_X">0.0f</string>
+    <string name="EQUAL_Y">-8.0f</string>
+
+    <string name="SAVE_X">0.0f</string>
+    <string name="SAVE_Y">-9.5f</string>
+
+    <string name="CARD_X">3.0f</string>
+    <string name="CARD_Y">-1.0f</string>
+
+    <string name="CARD_HIDDEN_X">-4.0f</string>
+    <string name="CARD_HIDDEN_Y">-1.0f</string>
+
+    <string name="LIFE_LOST_X">-4.0f</string>
+    <string name="LIFE_LOST_Y">-1.0f</string>
+</resources>
